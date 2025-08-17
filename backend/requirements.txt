@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-docx
+docx2pdf ; sys_platform == "win32"
+openpyxl
+python-multipart
