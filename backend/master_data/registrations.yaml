@@ -12,3 +12,17 @@
   payment_mode: UPI
   transaction_id: '1234567890'
   payment_date: '2023-01-01'
+- receipt_no: CTC202301010101
+  application_no: '202301010101'
+  student_name: John Doe
+  branch: Computer Science
+  year: '2023'
+  college: ABC College
+  mobile: '1234567890'
+  email: KtKpD@example.com
+  course: Computer Science
+  pay_for: Registration Fee
+  amount: '1000'
+  payment_mode: UPI
+  transaction_id: '1234567890'
+  payment_date: '2023-01-01'
