@@ -26,3 +26,18 @@
   payment_mode: UPI
   transaction_id: '1234567890'
   payment_date: '2023-01-01'
+- receipt_no: CTC20250820234327bd7
+  student_name: AKASH
+  branch: cse
+  year: 1st year
+  college: REC
+  course: CTC Bootcamp
+  mobile: '8400217365'
+  email: akashverma88818@gmail.com
+  pay_for: Registaration fee
+  amount: '10000'
+  payment_mode: cash
+  payment_date: '12012.23'
+  transaction_id: qwertyuiop79461
+  timestamp: '20250820234327'
+  application_no: '202508202343273'
