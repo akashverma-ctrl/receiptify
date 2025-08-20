@@ -41,3 +41,18 @@
   transaction_id: qwertyuiop79461
   timestamp: '20250820234327'
   application_no: '202508202343273'
+- receipt_no: CTC20250821000455de8
+  student_name: OMKAR VERMA
+  branch: ee
+  year: '2'
+  college: REC
+  course: CTC Bootcamp
+  mobile: '6392085347'
+  email: akashverma88818@gmail.com
+  pay_for: Registaration fee
+  amount: '10000'
+  payment_mode: cash
+  payment_date: '12'
+  transaction_id: qwwaszxsaqwaszx
+  timestamp: '20250821000455'
+  application_no: '202508210004554'
